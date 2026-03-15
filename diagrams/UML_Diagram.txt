@@ -1,0 +1,7 @@
+Create UML diagram in draw.io with the following classes:
+
+TaskItem
+TaskManager
+IStorage
+JsonStorage
+StorageFactory

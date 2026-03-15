@@ -1,0 +1,8 @@
+Flowchart:
+
+Start
+ -> Load Tasks
+ -> Menu
+ -> Add/Edit/Delete/Complete Task
+ -> Save Tasks
+ -> End
